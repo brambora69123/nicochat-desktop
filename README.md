@@ -1,3 +1,5 @@
+## This project has been abandoned since around 2023. Do not use this! This electron app was just a wrapper for the webchat interface.
+
 # nicochat-desktop
 
 A desktop app version of the web version at https://chat.nicolastech.xyz/
